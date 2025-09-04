@@ -15,7 +15,9 @@ A simple **PyQt5 GUI application** to download YouTube videos and convert them t
 - youtube-dl or pytube
 - FFmpeg (required for MP3 conversion)
 
+App image
 
+![Main Window](appimage.png)
 
 **Note:** This application requires FFmpeg. Please download FFmpeg from [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html) and place the `ffmpeg.exe` directly in the project's root folder (the same folder as `index.py`) before running the app.
 
